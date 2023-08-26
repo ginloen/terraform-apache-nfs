@@ -32,3 +32,5 @@ sudo apt-get install terraform
 ```
 
 6. Run terraform login
+
+7. Create index.html in shared folder
